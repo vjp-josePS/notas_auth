@@ -1,7 +1,7 @@
 <?php
 
 use App\Http\Controllers\RelacionController;
-use Illuminate\Support\Facades\Route;
+  use Illuminate\Support\Facades\Route;
 
 /*
 |--------------------------------------------------------------------------
